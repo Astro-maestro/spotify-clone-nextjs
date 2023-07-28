@@ -18,7 +18,7 @@ Welcome to the Spotify Clone repository! This project is a full-fledged music st
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/your-username/spotify-clone.git`
+1. Clone this repository: `git clone https://github.com/asayushranjansinha/spotify-clone-nextjs.git`
 2. Install project dependencies: `npm install`
 3. Set up your Supabase project and configure environment variables.
 4. Run the development server: `npm run dev`
