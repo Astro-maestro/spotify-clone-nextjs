@@ -2,6 +2,7 @@
 
 # developer related files
 tasks.txt
+password.txt
 
 # dependencies
 /node_modules
