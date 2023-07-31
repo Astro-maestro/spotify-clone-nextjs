@@ -107,7 +107,7 @@ const UploadModal = () => {
       reset();
       uploadModal.onClose();
     } catch (error) {
-      // Handle generic error
+      // Handle generic errorf
       toast.error("Something went wrong");
     } finally {
       // Reset the loading state in all cases
